@@ -1,7 +1,6 @@
 # MarkovChainMessageGenerator
 
-## Please note that this project is under development and requires a lot of additional work.
-
+## Please note that this project is under development and requires a lot of additional work. (also code of client on Python is terrible, I know)
 MarkovChainMessageGenerator generates messages based on history of Telegram groups.
 
 ## 🛠 Tools that project uses
@@ -18,5 +17,3 @@ MarkovChainMessageGenerator generates messages based on history of Telegram grou
 
 ## 📝 License
 The project is licensed under the [MIT license](https://github.com/yet-another-devteam/SendColorBot/blob/master/LICENSE).
-
-
