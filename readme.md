@@ -3,6 +3,7 @@
 ## Please note that this project is under development and requires a lot of additional work. (also code of client on Python is terrible, I know)
 MarkovChainMessageGenerator generates messages based on history of Telegram groups.
 
+![Example of generation](https://i.imgur.com/2YRS2BB.png)
 ## 🛠 Tools that project uses
 
 [.NET Core](https://dot.net) — Cross-platform general-purpose development platform.
